@@ -1,4 +1,9 @@
 ### Hi there 👋
+- 👋 Hi, I’m @iRahulP 
+- 👯 I’m looking to collaborate on Web projects
+- 👀 I’m interested in Web development 
+- 🌱 I’m currently working on Front-End Technologies...
+- 📫 How to reach me https://www.linkedin.com/in/rahul-s-patil/
 
 <!--
 **iRahulP/iRahulP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
