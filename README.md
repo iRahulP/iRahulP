@@ -9,7 +9,7 @@
   <a href="https://www.linkedin.com/in/rahul-s-patil/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/iRahulP">
+  <a href="https://irahulp.github.io/">
     <img src="https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="mailto:rahulpatil.m30@gmail.com">
