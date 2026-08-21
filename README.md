@@ -25,7 +25,7 @@ I'm a Full Stack Developer with **5+ years of experience** building production-g
 
 Currently a **Technology Associate at Morgan Stanley**, I've shipped everything from AI-powered search platforms and multi-step React apps to automation tools and developer-focused GenAI assistants. I care deeply about system design, code quality, and building software that actually solves problems.
 
-- 🏢 **Currently:** Technology Associate @ Morgan Stanley (Montreal → Ottawa)
+- 🏢 **Currently:** Technology Associate @ Morgan Stanley
 - 🎓 **Education:** M.Applied CS, Concordia University
 - 🌱 **Exploring:** Generative AI integrations, LLM tooling, agentic workflows
 - 🤝 **Open to:** Collaborations on ambitious full-stack or AI projects
